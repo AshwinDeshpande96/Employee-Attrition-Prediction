@@ -4,7 +4,7 @@ Model is able to fetch 78% of attrition
 
 [Full-Notebook](./Employee_Attrition.ipynb)
 
-* We design a ML model that creates explainable factors contributing to a employee leaving the company
+* We design a ML model that determines explainable factors contributing to a employee leaving the company
 * Given a list of employees that have left or still employed we predict the chances of current or future employees leaving
 * Some of the information we have are as follows
     * Age
