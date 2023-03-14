@@ -1,5 +1,7 @@
 # Employee Attrition Prediction
 
+Model is able to fetch 0.785088 of attrition
+
 * We design a ML model that creates explainable factors contributing to a employee leaving the company
 * Given a list of employees that have left or still employed we predict the chances of current or future employees leaving
 * Some of the information we have are as follows
@@ -31,6 +33,10 @@ Based of Chi2 test we find the factors influencing employee attrition
 |                  OverTime_No |      66.183056 |
 |         MaritalStatus_Single |      64.370946 |
 
+
+# Modeled Decision Tree
+
+![Decision Tree](./decision_tree.png)
 
 # Random Forest Confusion Matrix
 
